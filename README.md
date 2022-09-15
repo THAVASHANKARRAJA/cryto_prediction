@@ -5,6 +5,12 @@ This can be used to predict any cryto currency .
 
 
 
+
+
+
+<img src="https://image.cnbcfm.com/api/v1/image/107069560-1654078537245-gettyimages-1235570446-porzycki-cryptocu210928_npIa0.jpeg?v=1654240198">
+
+
 #ARIMA
 Autoregressive Integrated Moving Average Model
 
