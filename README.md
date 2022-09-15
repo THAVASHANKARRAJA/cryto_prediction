@@ -1,4 +1,4 @@
-# cryto_prediction
+# cryto_prediction_ARIMA MODEL
 A simple python machine learning project with ARIMA model . The past history data is used for 90 percent training and 10 percent is predicted.
 This can be used to predict any cryto currency .
 
